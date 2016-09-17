@@ -1,6 +1,6 @@
 # nginx-contrib-vim
 
-Make your Vim have better nginx.conf support.
+Make Vim have better nginx.conf support.
 
 It's simply
 
@@ -8,7 +8,7 @@ It's simply
     cp -a nginx/contrib/vim/* nginx-contrib-vim/
 ```
 
-and let you use it easier with Vim plugins managers.
+and let you use it easier with Vim plugin managers.
 
-You can find the latest version online:
+Find the latest version online:
 https://github.com/nginx/nginx/tree/master/contrib/vim .
